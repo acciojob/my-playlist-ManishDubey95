@@ -41,6 +41,7 @@ h2{
 
 video{
     width: 100%;
+    background-color: rgb(255, 255, 255);
 }
 
 audio{
